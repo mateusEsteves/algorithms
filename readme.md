@@ -1,0 +1,1 @@
+This repository was created to store some implementations I've made in order to study some basic data structures and algorithms and Python language.
